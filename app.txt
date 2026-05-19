@@ -1,1 +1,1 @@
-Application Version 2 from main branch
+Application Version 2 from main and new branch
